@@ -1,0 +1,3 @@
+La pantalla debe de estar en:
+Escala: 125%
+Resolución de pantalla: 1920 x 1080 
